@@ -5,3 +5,5 @@ venv/
 .DS_Store
 *.egg-info/
 dist/
+*.hdf5
+*.onnx
